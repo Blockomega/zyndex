@@ -1,10 +1,10 @@
 {
   "name": "Uhm",
-  "url": "https://uhm/index.json",
+  "url": "https://blockomega.github.io/zyndex/index.json",
   "owner": "Uhm",
   "instances": [
 
-    "https://Uhm.com/zyndex/instances/test.json"
+    "https://blockomega.github.io/zyndex/instances/test.json"
 
   ]
 }

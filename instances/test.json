@@ -14,8 +14,8 @@
       "download": "https://Uhm.to/instance.zip",
       "isHidden": false,
       "id": "test.json",
-      "location": "https://Uhm.com/zyndex/instances/test.json",
-      "origin": "https://Uhm.com/zyndex/index.json",
+      "location": "https://blockomega.github.io/zyndex/instances/test.json",
+      "origin": "https://blockomega.github.io/zyndex/index.json",
       "tags": [
         "minecraft-1.20.8.29.1972",
         "modloder-fabric"
