@@ -5,7 +5,7 @@
       "author": "Uhm",
       "description": "A simple modpack providing Uhm!",
       "name": "Uhm",
-      "verson": "2025.0"
+      "version": "2025.0"
 
     },
 
@@ -20,12 +20,6 @@
         "minecraft-1.20.8.29.1972",
         "modloder-fabric"
       ]
-
-    },
-
-    "resources": {
-
-      "background": "black"
 
     },
 
