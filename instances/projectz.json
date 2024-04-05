@@ -1,0 +1,33 @@
+{
+  "instance": {
+    "info": {
+      "author": "Black_0mega",
+      "description": "Project'Z Testversion",
+      "name": "ProjectZ",
+      "version": "2024.4-test.1"
+    },
+    "meta": {
+      "download": "https://www.dropbox.com/scl/fi/ab1okol4le7fvrefjlm59/projectz-normal.zip?rlkey=5dpy48tnc62s11peu9v4t84yj&dl=1",
+      "forgeType": "NEW",
+      "id": "projectz",
+      "isHidden": false,
+      "location": "https://blockomega.github.io/zyndex/instances/projectz.json",
+      "origin": "https://blockomega.github.io/zyndex/index.json",
+      "tags": [
+        "minecraft-1.16.5",
+        "modloder-forge"
+      ]
+    },
+    "resources": {
+      "background": "https://danieldieeins.github.io/Zyneon-Application/content/assets/zyneon/images/instances/official/projectz.webp",
+      "icon": "https://danieldieeins.github.io/Zyneon-Application/content/assets/zyneon/images/instances/official/projectz.png",
+      "logo": "https://danieldieeins.github.io/Zyneon-Application/content/assets/zyneon/images/instances/official/projectz-logo.png",
+      "thumbnail": "https://i.ibb.co/vHDWFgD/projectz.png"
+    },
+    "versions": {
+      "forge": "36.2.41",
+      "minecraft": "1.16.5"
+    }
+  },
+  "scheme": "2024.3"
+}
