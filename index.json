@@ -4,7 +4,8 @@
   "owner": "Uhm",
   "instances": [
 
-    "https://blockomega.github.io/zyndex/instances/projectz.json"
+    "https://blockomega.github.io/zyndex/instances/projectz.json",
+    "https://blockomega.github.io/zyndex/instances/projectz-building.json"
 
   ]
 }
